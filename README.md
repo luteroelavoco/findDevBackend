@@ -1,4 +1,4 @@
-# AirCNC Backend
+# FindDev Backend
 > This backend is compound with two requisitions types, synchronous and asynchronous
 
 Here, i used a Socket.io in order to facilitate asynchronous requisition. The data base used is Mongo Db.
@@ -33,7 +33,7 @@ programmer -  [Lutero Elavoco](https://www.linkedin.com/in/l%C3%BAtero-elavoco-5
 
 ## Contributing 
 
-1. Fork it (https://github.com/cientista1/aircncbackend)
+1. Fork it (https://github.com/cientista1/findDevBackend)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)

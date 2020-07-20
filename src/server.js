@@ -11,5 +11,8 @@ mongoose.connect(`mongodb+srv://${process.env.USER}:${process.env.PASSWORD}@clus
 
 const app = express();
 
+
+app.use(express.json());
 app.use(cors());
+app.use(routes);
 app.listen(3333);
