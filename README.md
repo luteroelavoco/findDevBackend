@@ -1,7 +1,7 @@
 # FindDev Backend
-> This backend is compound with two requisitions types, synchronous and asynchronous
+> This backend is compound with one requisitions type.
 
-Here, i used a Socket.io in order to facilitate asynchronous requisition. The data base used is Mongo Db.
+Here, i used a Axios in order to facilitate synchronous requisition. The data base used is Mongo Db.
 
 ## Instalation 
 
